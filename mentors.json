@@ -1,0 +1,260 @@
+[
+  {
+    "mentor_id": "mtr001",
+    "name": "Aarya Kuldeep",
+    "gender": "Male",
+    "language": ["Hindi", "English"],
+    "area_of_expertise": "Yoga",
+    "qualifications": [
+      "Certified Yoga Teacher – Quality Council of India, 2017",
+      "Master's degree in Human Consciousness and Yogic Science – Dev Sanskriti University, Haridwar, 2016",
+      "Certificate in Yoga and PhD research scholar in Yoga and Holistic Health – Indian Association of Yoga, New Delhi, 2016",
+      "Certificate in Yoga for Middle Aged – Morarji Desai National Institute of Yoga (MDNIY), New Delhi, 2015",
+      "Judge – SGFI State Yoga Championship, 2015"
+    ],
+    "experience": "10+ Years",
+    "bio": "Founder, Pragya Yog School (PhD Scholar, MSc. Yogic Science)",
+    "organization": ["PYSHK", "AWGP", "DSVV"],
+    "email": "aarya@pyshk.com",
+    "availability": "Weekly Available",
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/aaryakuldeep",
+      "twitter": "https://x.com/aarya_kuldeep",
+      "youtube": "https://youtube.com/@aaryakuldeep",
+      "instagram": "https://www.instagram.com/aarya_kuldeep"
+    },
+    "session_mode": "Online",
+    "region": "Indian"
+  },
+  {
+    "mentor_id": "mtr002",
+    "name": "Louise",
+    "gender": "Female",
+    "language": ["English"],
+    "area_of_expertise": "Yoga Instructor",
+    "qualifications": [
+      "500 Hours of training from the International Yoga Academy – 2015",
+      "100 Hour Pre-natal Yoga Teacher Training Course from the International Yoga Academy – 2016"
+    ],
+    "experience": "5 years",
+    "bio": "Louise believes that yoga is for every body, regardless of age, body type, gender, or personal background. Greatly influenced by the teachings of Guruji BKS Iyengar and her main teacher Dr. Yogananth Andiappan, she sees her dharma as promoting self-love and sharing her knowledge to inspire more people to practice yoga.",
+    "organization": ["PYSHK"],
+    "email": null,
+    "availability": "Weekly Available",
+    "social_links": {
+      "linkedin": null,
+      "twitter": null,
+      "youtube": null,
+      "instagram": null
+    },
+    "session_mode": "Online",
+    "region": "Foreigner"
+  },
+  {
+    "mentor_id": "mtr003",
+    "name": "Ashish Prajapati",
+    "gender": "Male",
+    "language": ["Hindi", "English"],
+    "area_of_expertise": "Yoga Instructor",
+    "qualifications": [
+      "Ph.D. in Yog (Pursuing) – Lakulish Yog University, Ahmedabad, India",
+      "Master of Science in Yog – S-VYASA University, Bangalore, India",
+      "Bachelor of Science in Yog – S-VYASA University, Bangalore, India",
+      "Registered Yog Teacher (RYT 500) – Yog Alliance, USA"
+    ],
+    "experience": "15 years",
+    "bio": "A dedicated practitioner and educator with a wealth of knowledge and over 15 years of experience in the field of yog.",
+    "organization": ["PYSHK"],
+    "email": null,
+    "availability": "Weekly Available",
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/abhyudayayoga",
+      "twitter": null,
+      "youtube": null,
+      "instagram": "https://www.instagram.com/abhyudaya_yoga"
+    },
+    "session_mode": "Online",
+    "region": "Indian"
+  },
+  {
+    "mentor_id": "mtr004",
+    "name": "Dr. Rakesh Jayswal",
+    "gender": "Male",
+    "language": ["Hindi", "English"],
+    "area_of_expertise": "Healing Modalities Expert, Spiritual Psychologist",
+    "qualifications": [
+      "Doctorate in Psychology"
+    ],
+    "experience": "20 years",
+    "bio": "Founder Director, Healer, Yoga practitioner",
+    "organization": ["PYSHK", "AWGP", "DSVV"],
+    "email": "Rakeshshantikunj@gmail.com",
+    "availability": "Weekly Available",
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/rakesh-jaiswal-96305b62",
+      "twitter": null,
+      "youtube": null,
+      "instagram": null
+    },
+    "session_mode": "Online",
+    "region": "Indian"
+  },
+  {
+    "mentor_id": "mtr005",
+    "name": "Dr. Yatendra Datt Amoli",
+    "gender": "Male",
+    "language": ["Hindi", "English"],
+    "area_of_expertise": "Yoga and Tantra Philosophy",
+    "qualifications": [
+      "PhD in Yoga (Kashmir Shaiva Philosophy)",
+      "Book on Kashmir Shaiva Philosophy published by Chaukhamba (India)",
+      "Appointed as ICCR chair by MEA Govt of India for establishment of first India-China Yoga College at YMU, Kunming, 2015",
+      "Worked as Associate Professor in Yoga at Dev Sanskriti University, Haridwar"
+    ],
+    "experience": "20 years",
+    "bio": "Dr. Yatendra Dutt Amoli did his PhD in Yoga in Kashmir Saivism — a rare culture of Tantra Philosophy. During 20 years of teaching, he has written several research papers published in journals of international repute. Featured on CGTN, CCTV and other national televisions in China.",
+    "organization": ["DSVV", "PYSHK"],
+    "email": null,
+    "availability": "Weekly Available",
+    "social_links": {
+      "linkedin": null,
+      "twitter": null,
+      "youtube": null,
+      "instagram": null
+    },
+    "session_mode": "Online",
+    "region": "Indian"
+  },
+  {
+    "mentor_id": "mtr006",
+    "name": "Marcus",
+    "gender": "Male",
+    "language": ["English"],
+    "area_of_expertise": "Yoga Instructor",
+    "qualifications": [
+      "200-hr 4D Yoga Teacher Training in Yoga and Meditation with Kapil Rajiv – 2024",
+      "Tibetan Singing Bowl Advanced Level – Tsering Tibetan Sound Healing – 2024",
+      "3-Days Mindfulness Yin Yoga Workshop with Chris Su – 2024",
+      "50-hr Chair Yoga with TinMing Lau – 2024"
+    ],
+    "experience": "2 years",
+    "bio": "Marcus encourages his students to prioritize solid foundations in building strength and flexibility before seeking more advanced asana. His teaching emphasizes muscle engagement, breath awareness, and body-to-mind connection.",
+    "organization": ["PYSHK"],
+    "email": null,
+    "availability": "Weekly Available",
+    "social_links": {
+      "linkedin": null,
+      "twitter": null,
+      "youtube": null,
+      "instagram": "https://www.instagram.com/omarcus.yoga"
+    },
+    "session_mode": "Online",
+    "region": "Foreigner"
+  },
+  {
+    "mentor_id": "mtr007",
+    "name": "Charlotte",
+    "gender": "Female",
+    "language": ["English"],
+    "area_of_expertise": "Yoga Instructor",
+    "qualifications": [
+      "50hr Ayurveda & the Yogic Lifestyle @ Pure – 2024",
+      "65hr Prenatal and Postnatal Yoga Teacher Training @ Bliss Baby Yoga – 2022",
+      "16hr Wheel Yoga Teacher Training @ Triangel Yoga – 2022",
+      "30hr Aerial Yoga Teacher Training @ Triangel Yoga – 2022",
+      "Yin Yoga Teacher Training & Immersion @ Yoga and Ayurveda Center – 2020",
+      "20hr Yoga Ring Teacher Training @ Lazy Cat Yoga – 2019",
+      "200hr Yoga Teacher Training @ Lazy Cat Yoga – 2019"
+    ],
+    "experience": "7 years",
+    "bio": "Charlotte started her yoga journey in 2017. Since transitioning to full-time teaching in 2020, she has found immense joy in sharing her passion for yoga. Her class style blends mellow and dynamic elements.",
+    "organization": ["PYSHK"],
+    "email": null,
+    "availability": "Weekly Available",
+    "social_links": {
+      "linkedin": null,
+      "twitter": null,
+      "youtube": null,
+      "instagram": null
+    },
+    "session_mode": "Online",
+    "region": "Foreigner"
+  },
+  {
+    "mentor_id": "mtr008",
+    "name": "Tavia",
+    "gender": "Female",
+    "language": ["English"],
+    "area_of_expertise": "Yoga Instructor",
+    "qualifications": [
+      "Certified Mat Yoga Teacher & Aerial Yoga Teacher – US Yoga Alliance RYT 200",
+      "70 hours Advanced Aerial Yoga",
+      "20 hours Backcare Therapy, 85 hours Yoga Therapy",
+      "21 hours Anatomy Trains in Motion",
+      "Reiki Energy Healing Lv2, Tibetan Singing Bowls Therapist",
+      "Chair Yoga Instructor, Yoga Nidra"
+    ],
+    "experience": "5 years",
+    "bio": "Tavia has been instructing since 2019, especially Vinyasa Yoga. She began her practice to address Scoliosis and now believes yoga is about learning and rediscovering your own body through refining stances and pranayama.",
+    "organization": ["PYSHK"],
+    "email": null,
+    "availability": "Weekly Available",
+    "social_links": {
+      "linkedin": null,
+      "twitter": null,
+      "youtube": null,
+      "instagram": null
+    },
+    "session_mode": "Online",
+    "region": "Foreigner"
+  },
+  {
+    "mentor_id": "mtr009",
+    "name": "Dr. Usha Jayswal",
+    "gender": "Female",
+    "language": ["Hindi", "English"],
+    "area_of_expertise": "Pranic Healing and Yoga Instructor",
+    "qualifications": [
+      "PhD in Human Resource Management"
+    ],
+    "experience": "20 years",
+    "bio": "Dr. Usha Jaiswal is a well-known practitioner and advocate of Pranic Healing, an energy healing practice involving the manipulation of the body's energy fields. She has given numerous talks including a session at Dev Sanskriti Vishwavidyalaya.",
+    "organization": ["PYSHK", "DSVV", "AWGP"],
+    "email": null,
+    "availability": "Weekly Available",
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/dr-usha-jaiswal-27b17678",
+      "twitter": null,
+      "youtube": null,
+      "instagram": null
+    },
+    "session_mode": "Online",
+    "region": "Indian"
+  },
+  {
+    "mentor_id": "mtr0010",
+    "name": "Angela",
+    "gender": "Female",
+    "language": ["English"],
+    "area_of_expertise": "Yoga Instructor",
+    "qualifications": [
+      "Certificate in 200-hr Yog Teacher Training, Pragya Yog School – 2023",
+      "Certificate in 50-hr Ayurveda & the Yogic Lifestyle with Pragya Yog School – 2023",
+      "Certificate in 18-hr Inversion & Arm Balancing – 2022",
+      "Certificate in 500-hr Yog Teacher Training with M. Young – 2021"
+    ],
+    "experience": "3 years",
+    "bio": "Angela began her yog journey in 2021. Through continuous practice, study, and self-discovery, she has committed herself to finding a balance between dynamic asana, restorative techniques, and a mindful lifestyle.",
+    "organization": ["PYSHK"],
+    "email": null,
+    "availability": "Weekly Available",
+    "social_links": {
+      "linkedin": null,
+      "twitter": null,
+      "youtube": null,
+      "instagram": null
+    },
+    "session_mode": "Online",
+    "region": "Foreigner"
+  }
+]
